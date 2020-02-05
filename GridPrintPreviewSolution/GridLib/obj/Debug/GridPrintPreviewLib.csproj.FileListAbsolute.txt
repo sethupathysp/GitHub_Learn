@@ -1,0 +1,10 @@
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\GridLib\bin\Debug\GridLib.dll
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\GridLib\bin\Debug\GridLib.pdb
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\GridLib\obj\Debug\ResolveAssemblyReference.cache
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\GridLib\obj\Debug\GridLib.dll
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\GridLib\obj\Debug\GridLib.pdb
+E:\Test GitHub\GridPrintPreviewSolution\GridLib\bin\Debug\GridLib.dll
+E:\Test GitHub\GridPrintPreviewSolution\GridLib\bin\Debug\GridLib.pdb
+E:\Test GitHub\GridPrintPreviewSolution\GridLib\obj\Debug\ResolveAssemblyReference.cache
+E:\Test GitHub\GridPrintPreviewSolution\GridLib\obj\Debug\GridLib.dll
+E:\Test GitHub\GridPrintPreviewSolution\GridLib\obj\Debug\GridLib.pdb

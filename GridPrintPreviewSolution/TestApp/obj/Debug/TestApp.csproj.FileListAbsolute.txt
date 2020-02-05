@@ -1,0 +1,22 @@
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\bin\Debug\testdata.xml
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\bin\Debug\TestApp.exe
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\bin\Debug\TestApp.pdb
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\bin\Debug\GridLib.dll
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\bin\Debug\GridLib.pdb
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\obj\Debug\ResolveAssemblyReference.cache
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\obj\Debug\TestApp.Form1.resources
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\obj\Debug\TestApp.exe
+E:\TestApp\GridPrintPreviewSolution\GridPrintPreviewSolution\TestApp\obj\Debug\TestApp.pdb
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\obj\Debug\TestApp.exe
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\obj\Debug\TestApp.pdb
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\bin\Debug\testdata.xml
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\bin\Debug\TestApp.exe
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\bin\Debug\TestApp.pdb
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\bin\Debug\GridLib.dll
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\bin\Debug\GridLib.pdb
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\obj\Debug\TestApp.Form1.resources
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+E:\Test GitHub\GridPrintPreviewSolution\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache

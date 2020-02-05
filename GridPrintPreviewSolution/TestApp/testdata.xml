@@ -1,0 +1,1032 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ID_x0020_ordine>30</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-01-15T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Maria Ferrari</Dipendente>
+    <Nome_x0020_cliente>Società AA</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Birra Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>1400</Vendite>
+    <Stato_x002F_Provincia>BO</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>9</ID_x0020_dipendente>
+    <ID_x0020_prodotto>34</ID_x0020_prodotto>
+    <ID_x0020_cliente>27</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>1</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>gennaio</Nome_x0020_mese>
+    <Categoria>Bevande</Categoria>
+    <Prodotto>Birra Northwind Traders</Prodotto>
+    <Cliente>Società AA</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>30</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-01-15T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Maria Ferrari</Dipendente>
+    <Nome_x0020_cliente>Società AA</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Prugne secche Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>105</Vendite>
+    <Stato_x002F_Provincia>BO</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>9</ID_x0020_dipendente>
+    <ID_x0020_prodotto>80</ID_x0020_prodotto>
+    <ID_x0020_cliente>27</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>1</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>gennaio</Nome_x0020_mese>
+    <Categoria>Frutta secca</Categoria>
+    <Prodotto>Prugne secche Northwind Traders</Prodotto>
+    <Cliente>Società AA</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>31</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-01-20T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Giovanni Bianchi</Dipendente>
+    <Nome_x0020_cliente>Società D</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Pere secche Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>300</Vendite>
+    <Stato_x002F_Provincia>RE</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>3</ID_x0020_dipendente>
+    <ID_x0020_prodotto>7</ID_x0020_prodotto>
+    <ID_x0020_cliente>4</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>1</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>gennaio</Nome_x0020_mese>
+    <Categoria>Frutta secca</Categoria>
+    <Prodotto>Pere secche Northwind Traders</Prodotto>
+    <Cliente>Società D</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>31</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-01-20T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Giovanni Bianchi</Dipendente>
+    <Nome_x0020_cliente>Società D</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Mele secche Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>530</Vendite>
+    <Stato_x002F_Provincia>RE</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>3</ID_x0020_dipendente>
+    <ID_x0020_prodotto>51</ID_x0020_prodotto>
+    <ID_x0020_cliente>4</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>1</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>gennaio</Nome_x0020_mese>
+    <Categoria>Frutta secca</Categoria>
+    <Prodotto>Mele secche Northwind Traders</Prodotto>
+    <Cliente>Società D</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>31</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-01-20T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Giovanni Bianchi</Dipendente>
+    <Nome_x0020_cliente>Società D</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Prugne secche Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>35</Vendite>
+    <Stato_x002F_Provincia>RE</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>3</ID_x0020_dipendente>
+    <ID_x0020_prodotto>80</ID_x0020_prodotto>
+    <ID_x0020_cliente>4</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>1</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>gennaio</Nome_x0020_mese>
+    <Categoria>Frutta secca</Categoria>
+    <Prodotto>Prugne secche Northwind Traders</Prodotto>
+    <Cliente>Società D</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>32</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-01-22T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Anna Ferraro</Dipendente>
+    <Nome_x0020_cliente>Società L</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Acqua minerale Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>270</Vendite>
+    <Stato_x002F_Provincia>BO</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>4</ID_x0020_dipendente>
+    <ID_x0020_prodotto>1</ID_x0020_prodotto>
+    <ID_x0020_cliente>12</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>1</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>gennaio</Nome_x0020_mese>
+    <Categoria>Bevande</Categoria>
+    <Prodotto>Acqua minerale Northwind Traders</Prodotto>
+    <Cliente>Società L</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>32</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-01-22T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Anna Ferraro</Dipendente>
+    <Nome_x0020_cliente>Società L</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Caffé Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>920</Vendite>
+    <Stato_x002F_Provincia>BO</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>4</ID_x0020_dipendente>
+    <ID_x0020_prodotto>43</ID_x0020_prodotto>
+    <ID_x0020_cliente>12</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>1</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>gennaio</Nome_x0020_mese>
+    <Categoria>Bevande</Categoria>
+    <Prodotto>Caffé Northwind Traders</Prodotto>
+    <Cliente>Società L</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>33</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-01-30T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Mario Greco</Dipendente>
+    <Nome_x0020_cliente>Società H</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Frollini Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>276</Vendite>
+    <Stato_x002F_Provincia>TO</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>6</ID_x0020_dipendente>
+    <ID_x0020_prodotto>19</ID_x0020_prodotto>
+    <ID_x0020_cliente>8</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>1</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>gennaio</Nome_x0020_mese>
+    <Categoria>Prodotti da forno</Categoria>
+    <Prodotto>Frollini Northwind Traders</Prodotto>
+    <Cliente>Società H</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>34</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-02-06T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Maria Ferrari</Dipendente>
+    <Nome_x0020_cliente>Società D</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Frollini Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>184</Vendite>
+    <Stato_x002F_Provincia>RE</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>9</ID_x0020_dipendente>
+    <ID_x0020_prodotto>19</ID_x0020_prodotto>
+    <ID_x0020_cliente>4</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>2</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>febbraio</Nome_x0020_mese>
+    <Categoria>Prodotti da forno</Categoria>
+    <Prodotto>Frollini Northwind Traders</Prodotto>
+    <Cliente>Società D</Cliente>
+    <MeseDelTrimestre>2</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>35</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-02-10T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Giovanni Bianchi</Dipendente>
+    <Nome_x0020_cliente>Società CC</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Cioccolato Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>127.5</Vendite>
+    <Stato_x002F_Provincia>AT</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>3</ID_x0020_dipendente>
+    <ID_x0020_prodotto>48</ID_x0020_prodotto>
+    <ID_x0020_cliente>29</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>2</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>febbraio</Nome_x0020_mese>
+    <Categoria>Dolciumi</Categoria>
+    <Prodotto>Cioccolato Northwind Traders</Prodotto>
+    <Cliente>Società CC</Cliente>
+    <MeseDelTrimestre>2</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>36</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-02-23T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Anna Ferraro</Dipendente>
+    <Nome_x0020_cliente>Società C</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Zuppa di legumi Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>1930</Vendite>
+    <Stato_x002F_Provincia>CA</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>4</ID_x0020_dipendente>
+    <ID_x0020_prodotto>41</ID_x0020_prodotto>
+    <ID_x0020_cliente>3</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>2</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>febbraio</Nome_x0020_mese>
+    <Categoria>Minestre</Categoria>
+    <Prodotto>Zuppa di legumi Northwind Traders</Prodotto>
+    <Cliente>Società C</Cliente>
+    <MeseDelTrimestre>2</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>37</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-03-06T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Laura Giussani</Dipendente>
+    <Nome_x0020_cliente>Società F</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Salsa al curry Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>680</Vendite>
+    <Stato_x002F_Provincia>FI</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>8</ID_x0020_dipendente>
+    <ID_x0020_prodotto>8</ID_x0020_prodotto>
+    <ID_x0020_cliente>6</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>3</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>marzo</Nome_x0020_mese>
+    <Categoria>Salse</Categoria>
+    <Prodotto>Salsa al curry Northwind Traders</Prodotto>
+    <Cliente>Società F</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>38</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-03-10T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Maria Ferrari</Dipendente>
+    <Nome_x0020_cliente>Società BB</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Caffé Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>13800</Vendite>
+    <Stato_x002F_Provincia>CE</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>9</ID_x0020_dipendente>
+    <ID_x0020_prodotto>43</ID_x0020_prodotto>
+    <ID_x0020_cliente>28</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>3</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>marzo</Nome_x0020_mese>
+    <Categoria>Bevande</Categoria>
+    <Prodotto>Caffé Northwind Traders</Prodotto>
+    <Cliente>Società BB</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>39</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-03-22T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Giovanni Bianchi</Dipendente>
+    <Nome_x0020_cliente>Società H</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Cioccolato Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>1275</Vendite>
+    <Stato_x002F_Provincia>TO</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>3</ID_x0020_dipendente>
+    <ID_x0020_prodotto>48</ID_x0020_prodotto>
+    <ID_x0020_cliente>8</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>3</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>marzo</Nome_x0020_mese>
+    <Categoria>Dolciumi</Categoria>
+    <Prodotto>Cioccolato Northwind Traders</Prodotto>
+    <Cliente>Società H</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>40</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-03-24T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Anna Ferraro</Dipendente>
+    <Nome_x0020_cliente>Società J</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Te verde Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>598</Vendite>
+    <Stato_x002F_Provincia>ME</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>4</ID_x0020_dipendente>
+    <ID_x0020_prodotto>81</ID_x0020_prodotto>
+    <ID_x0020_cliente>10</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>3</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>marzo</Nome_x0020_mese>
+    <Categoria>Bevande</Categoria>
+    <Prodotto>Te verde Northwind Traders</Prodotto>
+    <Cliente>Società J</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>42</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-03-24T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società J</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Marmellata di rose Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>250</Vendite>
+    <Stato_x002F_Provincia>ME</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>6</ID_x0020_prodotto>
+    <ID_x0020_cliente>10</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>3</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>marzo</Nome_x0020_mese>
+    <Categoria>Marmellate, conserve</Categoria>
+    <Prodotto>Marmellata di rose Northwind Traders</Prodotto>
+    <Cliente>Società J</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>42</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-03-24T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società J</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Maionese Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>220</Vendite>
+    <Stato_x002F_Provincia>ME</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>4</ID_x0020_prodotto>
+    <ID_x0020_cliente>10</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>3</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>marzo</Nome_x0020_mese>
+    <Categoria>Condimenti</Categoria>
+    <Prodotto>Maionese Northwind Traders</Prodotto>
+    <Cliente>Società J</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>42</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-03-24T00:00:00+01:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società J</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Frollini Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>92</Vendite>
+    <Stato_x002F_Provincia>ME</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>19</ID_x0020_prodotto>
+    <ID_x0020_cliente>10</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>3</Mese>
+    <Trimestre>1</Trimestre>
+    <Nome_x0020_mese>marzo</Nome_x0020_mese>
+    <Categoria>Prodotti da forno</Categoria>
+    <Prodotto>Frollini Northwind Traders</Prodotto>
+    <Cliente>Società J</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>45</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-07T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società BB</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Zuppa di legumi Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>482.5</Vendite>
+    <Stato_x002F_Provincia>CE</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>41</ID_x0020_prodotto>
+    <ID_x0020_cliente>28</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Minestre</Categoria>
+    <Prodotto>Zuppa di legumi Northwind Traders</Prodotto>
+    <Cliente>Società BB</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>45</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-07T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società BB</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Alici Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>920</Vendite>
+    <Stato_x002F_Provincia>CE</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>40</ID_x0020_prodotto>
+    <ID_x0020_cliente>28</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Carne e pesce in scatola</Categoria>
+    <Prodotto>Alici Northwind Traders</Prodotto>
+    <Cliente>Società BB</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>46</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Luigi Bruno</Dipendente>
+    <Nome_x0020_cliente>Società I</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Ravioli Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>1950</Vendite>
+    <Stato_x002F_Provincia>PG</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>7</ID_x0020_dipendente>
+    <ID_x0020_prodotto>57</ID_x0020_prodotto>
+    <ID_x0020_cliente>9</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Pasta</Categoria>
+    <Prodotto>Ravioli Northwind Traders</Prodotto>
+    <Cliente>Società I</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>46</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Luigi Bruno</Dipendente>
+    <Nome_x0020_cliente>Società I</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Mozzarella Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>1740</Vendite>
+    <Stato_x002F_Provincia>PG</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>7</ID_x0020_dipendente>
+    <ID_x0020_prodotto>72</ID_x0020_prodotto>
+    <ID_x0020_cliente>9</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Prodotti caseari</Categoria>
+    <Prodotto>Mozzarella Northwind Traders</Prodotto>
+    <Cliente>Società I</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>47</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-08T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Mario Greco</Dipendente>
+    <Nome_x0020_cliente>Società F</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Birra Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>4200</Vendite>
+    <Stato_x002F_Provincia>FI</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>6</ID_x0020_dipendente>
+    <ID_x0020_prodotto>34</ID_x0020_prodotto>
+    <ID_x0020_cliente>6</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Bevande</Categoria>
+    <Prodotto>Birra Northwind Traders</Prodotto>
+    <Cliente>Società F</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>48</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Anna Ferraro</Dipendente>
+    <Nome_x0020_cliente>Società H</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Salsa al curry Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>1000</Vendite>
+    <Stato_x002F_Provincia>TO</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>4</ID_x0020_dipendente>
+    <ID_x0020_prodotto>8</ID_x0020_prodotto>
+    <ID_x0020_cliente>8</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Salse</Categoria>
+    <Prodotto>Salsa al curry Northwind Traders</Prodotto>
+    <Cliente>Società H</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>48</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Anna Ferraro</Dipendente>
+    <Nome_x0020_cliente>Società H</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Frollini Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>230</Vendite>
+    <Stato_x002F_Provincia>TO</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>4</ID_x0020_dipendente>
+    <ID_x0020_prodotto>19</ID_x0020_prodotto>
+    <ID_x0020_cliente>8</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Prodotti da forno</Categoria>
+    <Prodotto>Frollini Northwind Traders</Prodotto>
+    <Cliente>Società H</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>50</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Maria Ferrari</Dipendente>
+    <Nome_x0020_cliente>Società Y</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Cornetti Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>200</Vendite>
+    <Stato_x002F_Provincia>ME</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>9</ID_x0020_dipendente>
+    <ID_x0020_prodotto>21</ID_x0020_prodotto>
+    <ID_x0020_cliente>25</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Prodotti da forno</Categoria>
+    <Prodotto>Cornetti Northwind Traders</Prodotto>
+    <Cliente>Società Y</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>51</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Maria Ferrari</Dipendente>
+    <Nome_x0020_cliente>Società Z</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Olio di oliva Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>533.75</Vendite>
+    <Stato_x002F_Provincia>AN</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>9</ID_x0020_dipendente>
+    <ID_x0020_prodotto>5</ID_x0020_prodotto>
+    <ID_x0020_cliente>26</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Olio</Categoria>
+    <Prodotto>Olio di oliva Northwind Traders</Prodotto>
+    <Cliente>Società Z</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>51</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Maria Ferrari</Dipendente>
+    <Nome_x0020_cliente>Società Z</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Zuppa di legumi Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>289.5</Vendite>
+    <Stato_x002F_Provincia>AN</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>9</ID_x0020_dipendente>
+    <ID_x0020_prodotto>41</ID_x0020_prodotto>
+    <ID_x0020_cliente>26</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Minestre</Categoria>
+    <Prodotto>Zuppa di legumi Northwind Traders</Prodotto>
+    <Cliente>Società Z</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>51</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Maria Ferrari</Dipendente>
+    <Nome_x0020_cliente>Società Z</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Alici Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>552</Vendite>
+    <Stato_x002F_Provincia>AN</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>9</ID_x0020_dipendente>
+    <ID_x0020_prodotto>40</ID_x0020_prodotto>
+    <ID_x0020_cliente>26</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Carne e pesce in scatola</Categoria>
+    <Prodotto>Alici Northwind Traders</Prodotto>
+    <Cliente>Società Z</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>56</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-03T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Esposito Antonio</Dipendente>
+    <Nome_x0020_cliente>Società F</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Cioccolato Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>127.5</Vendite>
+    <Stato_x002F_Provincia>FI</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>2</ID_x0020_dipendente>
+    <ID_x0020_prodotto>48</ID_x0020_prodotto>
+    <ID_x0020_cliente>6</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Dolciumi</Categoria>
+    <Prodotto>Cioccolato Northwind Traders</Prodotto>
+    <Cliente>Società F</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>55</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società CC</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Birra Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>1218</Vendite>
+    <Stato_x002F_Provincia>AT</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>34</ID_x0020_prodotto>
+    <ID_x0020_cliente>29</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Bevande</Categoria>
+    <Prodotto>Birra Northwind Traders</Prodotto>
+    <Cliente>Società CC</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>79</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-06-23T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Esposito Antonio</Dipendente>
+    <Nome_x0020_cliente>Società F</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Pere secche Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>900</Vendite>
+    <Stato_x002F_Provincia>FI</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>2</ID_x0020_dipendente>
+    <ID_x0020_prodotto>7</ID_x0020_prodotto>
+    <ID_x0020_cliente>6</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>6</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>giugno</Nome_x0020_mese>
+    <Categoria>Frutta secca</Categoria>
+    <Prodotto>Pere secche Northwind Traders</Prodotto>
+    <Cliente>Società F</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>79</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-06-23T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Esposito Antonio</Dipendente>
+    <Nome_x0020_cliente>Società F</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Mele secche Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>1590</Vendite>
+    <Stato_x002F_Provincia>FI</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>2</ID_x0020_dipendente>
+    <ID_x0020_prodotto>51</ID_x0020_prodotto>
+    <ID_x0020_cliente>6</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>6</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>giugno</Nome_x0020_mese>
+    <Categoria>Frutta secca</Categoria>
+    <Prodotto>Mele secche Northwind Traders</Prodotto>
+    <Cliente>Società F</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>78</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-06-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società CC</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Macedonia Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>1560</Vendite>
+    <Stato_x002F_Provincia>AT</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>17</ID_x0020_prodotto>
+    <ID_x0020_cliente>29</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>6</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>giugno</Nome_x0020_mese>
+    <Categoria>Frutta e verdura in scatola</Categoria>
+    <Prodotto>Macedonia Northwind Traders</Prodotto>
+    <Cliente>Società CC</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>77</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-06-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Maria Ferrari</Dipendente>
+    <Nome_x0020_cliente>Società Z</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Marmellata di rose Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>2250</Vendite>
+    <Stato_x002F_Provincia>AN</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>9</ID_x0020_dipendente>
+    <ID_x0020_prodotto>6</ID_x0020_prodotto>
+    <ID_x0020_cliente>26</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>6</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>giugno</Nome_x0020_mese>
+    <Categoria>Marmellate, conserve</Categoria>
+    <Prodotto>Marmellata di rose Northwind Traders</Prodotto>
+    <Cliente>Società Z</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>76</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-06-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Maria Ferrari</Dipendente>
+    <Nome_x0020_cliente>Società Y</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Maionese Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>660</Vendite>
+    <Stato_x002F_Provincia>ME</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>9</ID_x0020_dipendente>
+    <ID_x0020_prodotto>4</ID_x0020_prodotto>
+    <ID_x0020_cliente>25</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>6</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>giugno</Nome_x0020_mese>
+    <Categoria>Condimenti</Categoria>
+    <Prodotto>Maionese Northwind Traders</Prodotto>
+    <Cliente>Società Y</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>75</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-06-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Anna Ferraro</Dipendente>
+    <Nome_x0020_cliente>Società H</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Cioccolato Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>510</Vendite>
+    <Stato_x002F_Provincia>TO</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>4</ID_x0020_dipendente>
+    <ID_x0020_prodotto>48</ID_x0020_prodotto>
+    <ID_x0020_cliente>8</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>6</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>giugno</Nome_x0020_mese>
+    <Categoria>Dolciumi</Categoria>
+    <Prodotto>Cioccolato Northwind Traders</Prodotto>
+    <Cliente>Società H</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>74</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-06-08T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Mario Greco</Dipendente>
+    <Nome_x0020_cliente>Società F</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Cioccolato Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>510</Vendite>
+    <Stato_x002F_Provincia>FI</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>6</ID_x0020_dipendente>
+    <ID_x0020_prodotto>48</ID_x0020_prodotto>
+    <ID_x0020_cliente>6</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>6</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>giugno</Nome_x0020_mese>
+    <Categoria>Dolciumi</Categoria>
+    <Prodotto>Cioccolato Northwind Traders</Prodotto>
+    <Cliente>Società F</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>73</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-06-05T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Luigi Bruno</Dipendente>
+    <Nome_x0020_cliente>Società I</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Zuppa di legumi Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>96.5</Vendite>
+    <Stato_x002F_Provincia>PG</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>7</ID_x0020_dipendente>
+    <ID_x0020_prodotto>41</ID_x0020_prodotto>
+    <ID_x0020_cliente>9</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>6</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>giugno</Nome_x0020_mese>
+    <Categoria>Minestre</Categoria>
+    <Prodotto>Zuppa di legumi Northwind Traders</Prodotto>
+    <Cliente>Società I</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>72</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-06-07T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società BB</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Caffé Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>230</Vendite>
+    <Stato_x002F_Provincia>CE</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>43</ID_x0020_prodotto>
+    <ID_x0020_cliente>28</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>6</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>giugno</Nome_x0020_mese>
+    <Categoria>Bevande</Categoria>
+    <Prodotto>Caffé Northwind Traders</Prodotto>
+    <Cliente>Società BB</Cliente>
+    <MeseDelTrimestre>0</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>71</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-05-24T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società A</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Alici Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>736</Vendite>
+    <Stato_x002F_Provincia>RM</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>40</ID_x0020_prodotto>
+    <ID_x0020_cliente>1</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>5</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>maggio</Nome_x0020_mese>
+    <Categoria>Carne e pesce in scatola</Categoria>
+    <Prodotto>Alici Northwind Traders</Prodotto>
+    <Cliente>Società A</Cliente>
+    <MeseDelTrimestre>2</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>70</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-05-24T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società K</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Salsa al curry Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>800</Vendite>
+    <Stato_x002F_Provincia>AN</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>8</ID_x0020_prodotto>
+    <ID_x0020_cliente>11</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>5</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>maggio</Nome_x0020_mese>
+    <Categoria>Salse</Categoria>
+    <Prodotto>Salsa al curry Northwind Traders</Prodotto>
+    <Cliente>Società K</Cliente>
+    <MeseDelTrimestre>2</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>69</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-05-24T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Francesca Leonetti</Dipendente>
+    <Nome_x0020_cliente>Società J</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Prugne secche Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>52.5</Vendite>
+    <Stato_x002F_Provincia>ME</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>1</ID_x0020_dipendente>
+    <ID_x0020_prodotto>80</ID_x0020_prodotto>
+    <ID_x0020_cliente>10</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>5</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>maggio</Nome_x0020_mese>
+    <Categoria>Frutta secca</Categoria>
+    <Prodotto>Prugne secche Northwind Traders</Prodotto>
+    <Cliente>Società J</Cliente>
+    <MeseDelTrimestre>2</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>67</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-05-24T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Anna Ferraro</Dipendente>
+    <Nome_x0020_cliente>Società J</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Mandorle Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>200</Vendite>
+    <Stato_x002F_Provincia>ME</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>4</ID_x0020_dipendente>
+    <ID_x0020_prodotto>74</ID_x0020_prodotto>
+    <ID_x0020_cliente>10</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>5</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>maggio</Nome_x0020_mese>
+    <Categoria>Frutta secca</Categoria>
+    <Prodotto>Mandorle Northwind Traders</Prodotto>
+    <Cliente>Società J</Cliente>
+    <MeseDelTrimestre>2</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>60</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-30T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Mario Greco</Dipendente>
+    <Nome_x0020_cliente>Società H</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Mozzarella Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>1392</Vendite>
+    <Stato_x002F_Provincia>TO</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>6</ID_x0020_dipendente>
+    <ID_x0020_prodotto>72</ID_x0020_prodotto>
+    <ID_x0020_cliente>8</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Prodotti caseari</Categoria>
+    <Prodotto>Mozzarella Northwind Traders</Prodotto>
+    <Cliente>Società H</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>63</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-25T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Anna Ferraro</Dipendente>
+    <Nome_x0020_cliente>Società C</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Aceto di mele Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>500</Vendite>
+    <Stato_x002F_Provincia>CA</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>4</ID_x0020_dipendente>
+    <ID_x0020_prodotto>3</ID_x0020_prodotto>
+    <ID_x0020_cliente>3</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Condimenti</Categoria>
+    <Prodotto>Aceto di mele Northwind Traders</Prodotto>
+    <Cliente>Società C</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>63</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-25T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Anna Ferraro</Dipendente>
+    <Nome_x0020_cliente>Società C</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Salsa al curry Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>120</Vendite>
+    <Stato_x002F_Provincia>CA</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>4</ID_x0020_dipendente>
+    <ID_x0020_prodotto>8</ID_x0020_prodotto>
+    <ID_x0020_cliente>3</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Salse</Categoria>
+    <Prodotto>Salsa al curry Northwind Traders</Prodotto>
+    <Cliente>Società C</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>58</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-22T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Giovanni Bianchi</Dipendente>
+    <Nome_x0020_cliente>Società D</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Marmellata d'arance Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>3240</Vendite>
+    <Stato_x002F_Provincia>RE</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>3</ID_x0020_dipendente>
+    <ID_x0020_prodotto>20</ID_x0020_prodotto>
+    <ID_x0020_cliente>4</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Marmellate, conserve</Categoria>
+    <Prodotto>Marmellata d'arance Northwind Traders</Prodotto>
+    <Cliente>Società D</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+  <Table>
+    <ID_x0020_ordine>58</ID_x0020_ordine>
+    <Data_x0020_ordine>2006-04-22T00:00:00+02:00</Data_x0020_ordine>
+    <Dipendente>Giovanni Bianchi</Dipendente>
+    <Nome_x0020_cliente>Società D</Nome_x0020_cliente>
+    <Nome_x0020_prodotto>Riso Northwind Traders</Nome_x0020_prodotto>
+    <Vendite>280</Vendite>
+    <Stato_x002F_Provincia>RE</Stato_x002F_Provincia>
+    <Paese>Italia</Paese>
+    <ID_x0020_dipendente>3</ID_x0020_dipendente>
+    <ID_x0020_prodotto>52</ID_x0020_prodotto>
+    <ID_x0020_cliente>4</ID_x0020_cliente>
+    <Anno>2006</Anno>
+    <Mese>4</Mese>
+    <Trimestre>2</Trimestre>
+    <Nome_x0020_mese>aprile</Nome_x0020_mese>
+    <Categoria>Cereali</Categoria>
+    <Prodotto>Riso Northwind Traders</Prodotto>
+    <Cliente>Società D</Cliente>
+    <MeseDelTrimestre>1</MeseDelTrimestre>
+  </Table>
+</NewDataSet>

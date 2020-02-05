@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridPrintPreviewLib", "GridLib\GridPrintPreviewLib.csproj", "{2DAD67E3-FF39-4102-9559-1D179F8BCCC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{D8D79B01-FB59-4483-973D-67D10DB52426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAD67E3-FF39-4102-9559-1D179F8BCCC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAD67E3-FF39-4102-9559-1D179F8BCCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAD67E3-FF39-4102-9559-1D179F8BCCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAD67E3-FF39-4102-9559-1D179F8BCCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D79B01-FB59-4483-973D-67D10DB52426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D79B01-FB59-4483-973D-67D10DB52426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D79B01-FB59-4483-973D-67D10DB52426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D79B01-FB59-4483-973D-67D10DB52426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
