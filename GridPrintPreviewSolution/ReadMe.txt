@@ -1,2 +1,2 @@
 new read me file created
-updated again
+Removed "updated again" text.
